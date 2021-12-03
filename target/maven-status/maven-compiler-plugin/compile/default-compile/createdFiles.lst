@@ -1,0 +1,3 @@
+org\calderon\webapp\ejb\service\ServiceEjbRemote.class
+org\calderon\webapp\ejb\models\Producto.class
+org\calderon\webapp\ejb\service\ServiceEjb.class
